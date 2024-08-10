@@ -1,0 +1,35 @@
+section{
+   
+    color: rgb(44, 62, 80);
+
+}
+.star {
+width: 100px;
+border-color: rgb(44, 62, 80) !important;
+
+}
+
+.form-floating > .form-control-plaintext ~ label, .form-floating > .form-control:focus ~ label, .form-floating > .form-control:not(:placeholder-shown) ~ label, .form-floating > .form-select ~ label {
+color: aquamarine;
+}
+.form-control{
+    border: 0;
+    border-bottom: 0.5px solid;
+    border-color:#dee2e6;
+    ;
+}
+.form-control:focus {
+    color: black;
+    border: 0;
+    border-bottom: 1px solid;
+    border-color:#dee2e6;
+    ;
+    outline: 0;
+    box-shadow: 0 0 0;
+}
+
+.btn-gree{
+   background-color: #1abc9c;
+   border: 0;
+
+}

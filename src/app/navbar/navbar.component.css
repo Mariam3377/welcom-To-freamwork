@@ -1,0 +1,17 @@
+
+
+
+nav{
+    background-color:#2c3e50;
+    transition: .6s padding;
+    z-index: 33333;
+}
+nav  a,
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: white;
+
+}
+
+.bg-sec{
+    background-color: #1abc9c;
+}
